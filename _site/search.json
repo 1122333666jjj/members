@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "项目\n详情\n\n\n\n\n姓名\n江祥鸿\n\n\n年龄\n24岁\n\n\n院校\n华中农业大学\n\n\n专业\n（替换为你的专业，如：农林经济管理）\n\n\n兴趣\n编程、数据分析、阅读、运动\n\n\n\n\n\n\n\n办公技能：Word/Excel/PPT 熟练使用\n编程基础：Python/R 基础语法、数据处理\n工具能力：Quarto 文档编写、Git 版本控制\n软技能：团队协作、沟通表达、快速学习\n\n\n\n\n\n📧 邮箱：your-email@hzau.edu.cn（替换为你的邮箱）\n💻 个人仓库：https://github.com/your-username（替换为你的地址）"
+  },
+  {
+    "objectID": "about.html#基本信息",
+    "href": "about.html#基本信息",
+    "title": "关于我",
+    "section": "",
+    "text": "项目\n详情\n\n\n\n\n姓名\n江祥鸿\n\n\n年龄\n24岁\n\n\n院校\n华中农业大学\n\n\n专业\n（替换为你的专业，如：农林经济管理）\n\n\n兴趣\n编程、数据分析、阅读、运动"
+  },
+  {
+    "objectID": "about.html#技能清单",
+    "href": "about.html#技能清单",
+    "title": "关于我",
+    "section": "",
+    "text": "办公技能：Word/Excel/PPT 熟练使用\n编程基础：Python/R 基础语法、数据处理\n工具能力：Quarto 文档编写、Git 版本控制\n软技能：团队协作、沟通表达、快速学习"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "关于我",
+    "section": "",
+    "text": "📧 邮箱：your-email@hzau.edu.cn（替换为你的邮箱）\n💻 个人仓库：https://github.com/your-username（替换为你的地址）"
+  },
+  {
+    "objectID": "quarto create project website/index.html",
+    "href": "quarto create project website/index.html",
+    "title": "quarto create project website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "quarto create project website/about.html",
+    "href": "quarto create project website/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
